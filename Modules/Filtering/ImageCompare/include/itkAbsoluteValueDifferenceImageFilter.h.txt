@@ -1,0 +1,5 @@
+Minor documentation fixes.
+
+http://review.source.kitware.com/#change,1980
+
+Rated.
